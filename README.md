@@ -1,2 +1,3 @@
-# test
-testing
+# Test
+
+This is a repo where I can test things.
